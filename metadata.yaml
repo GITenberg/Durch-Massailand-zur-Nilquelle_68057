@@ -1,0 +1,25 @@
+_repo: Durch-Massailand-zur-Nilquelle_68057
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baumann, Oscar
+    gutenberg_agent_id: '54584'
+    url: http://www.gutenberg.org/2009/agents/54584
+description: ''
+gutenberg_issued: '2022-05-12'
+identifiers:
+  gutenberg: '68057'
+language: de
+pgterms:marc905: 20140714150012baumann
+pgterms:marc906: '1894'
+pgterms:marc907: de
+production_note: Peter Becker, Franz L Kuhlmann and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: Germany :Dietrich Reimer,1894.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Durch Massailand zur Nilquelle
+url: http://www.gutenberg.org/ebooks/68057
